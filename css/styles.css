@@ -292,7 +292,7 @@ a {
 	z-index:1;
 }
 #bannerPic {
-	background-image:url(../images/cafe.jpeg);
+	background-image:url(../images/aircraft-golden.jpeg);
 	background-position:center center;
 	background-size:cover;
 	width:100%;
@@ -396,7 +396,7 @@ a {
 }
 #actual-table td:nth-child(even) {
   	width:63%;
-	background-image:url(../images/two-cups.jpg);
+	background-image:url(../images/plane-wing-golden.jpeg);
 	background-size:cover;
 }
 #actual-table td:nth-child(odd) {
