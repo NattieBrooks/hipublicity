@@ -1033,7 +1033,14 @@ footer {
 	display:none;
 }
 
-
+.copyright {
+    font-family: 'Ubuntu', sans-serif;
+    font-size:19px;
+	font-weight:500;
+	color:#FFF;
+	letter-spacing:2px;
+    padding:30px 13px 0px 13px;
+}
 
 /* Media Queries
 ***********************/
